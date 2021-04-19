@@ -1,7 +1,6 @@
 ## 캠핑장 예약 관리 프로그램
 ### 2021 소프트웨어공학 팀프로젝트
 
-### Project Members
 DEPT | NAME | ROLE
 ---| --- | ---
 CS | [윤윤호](https://github.com/yun-yunho "@Yunho Yun") | 팀장
@@ -11,7 +10,20 @@ CS | [정한수](https://github.com/8471919 "@Jeong-hansu") | 팀원
 CS | [최종현](https://github.com/lun4-light "@Jong-hyun Choi") | 팀원
 
 ### Implementation
+---
 - Android Application
 
 ### Collaboration tool
+---
 - Microsoft Teams
+
+### Our Plan
+---
+<a href="https://trello.com/b/6BtFPscC/smu-nolja" target="_blank">Trello</a>
+
+### Meeting logs
+---
+[2021-04-04](./회의록/20200404.md) <br/>
+[2021-04-06](./회의록/20200406.md) <br/>
+[2021-04-07](./회의록/20200407.md) <br/>
+[2021-04-15](./회의록/20200415.md) <br/>
