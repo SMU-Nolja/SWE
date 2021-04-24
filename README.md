@@ -28,3 +28,10 @@ CS | [최종현](https://github.com/lun4-light "@Jong-hyun Choi") | 팀원
 [2021-04-06](./%ED%9A%8C%EC%9D%98%EB%A1%9D/20210406.md) <br/>
 [2021-04-07](./%ED%9A%8C%EC%9D%98%EB%A1%9D/20210407.md) <br/>
 [2021-04-15](./%ED%9A%8C%EC%9D%98%EB%A1%9D/20210415.md) <br/>
+
+### 요구사항 명세서 중간보고 영상
+---
+
+[![Video Label](https://i9.ytimg.com/vi_webp/csKvBtmY_-o/mqdefault.webp?time=1619262600000&sqp=CIj5j4QG&rs=AOn4CLCIbMdGQPyve9orfVqD2UNA9z8g1g)](https://youtu.be/csKvBtmY_-o)
+  
+- 위의 이미지를 클릭하시면 중간보고 영상을 시청하실 수 있습니다.
