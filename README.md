@@ -32,6 +32,6 @@ CS | [최종현](https://github.com/lun4-light "@Jong-hyun Choi") | 팀원
 ### 요구사항 명세서 중간보고 영상
 ---
 
-[![Video Label](https://i9.ytimg.com/vi_webp/csKvBtmY_-o/mqdefault.webp?time=1619262600000&sqp=CIj5j4QG&rs=AOn4CLCIbMdGQPyve9orfVqD2UNA9z8g1g)](https://youtu.be/csKvBtmY_-o)
+[![중간보고 영상](http://img.youtube.com/vi/csKvBtmY_-o/0.jpg)](https://youtu.be/csKvBtmY_-o)
   
 - 위의 이미지를 클릭하시면 중간보고 영상을 시청하실 수 있습니다.
