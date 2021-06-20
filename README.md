@@ -11,8 +11,7 @@ CS | [최종현](https://github.com/lun4-light "@Jong-hyun Choi") | 팀원
 
 ### Implementation
 ---
-- Android Application
-
+[시스템 구성도](./img/ServiceDiagram.jpg)
 ### Collaboration tool
 ---
 - Microsoft Teams
