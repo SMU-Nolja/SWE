@@ -35,3 +35,11 @@ CS | [최종현](https://github.com/lun4-light "@Jong-hyun Choi") | 팀원
 [![중간보고 영상](http://img.youtube.com/vi/csKvBtmY_-o/0.jpg)](https://youtu.be/csKvBtmY_-o)
   
 - 위의 이미지를 클릭하시면 중간보고 영상을 시청하실 수 있습니다.
+
+
+### 최종 발표 영상
+---
+
+[![최종발표 영상](http://img.youtube.com/vi/qDCkv_aV4Kw/0.jpg)](https://youtu.be/qDCkv_aV4Kw)
+
+- 위의 이미지를 클릭하시면 최종 발표 영상을 시청하실 수 있습니다.
